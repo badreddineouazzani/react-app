@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+<<<<
+< HEAD
 # first-react-app
 nothing else !!
 =======
